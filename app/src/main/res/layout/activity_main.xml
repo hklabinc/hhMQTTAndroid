@@ -21,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:text="hklab.hknu.ac.kr:8085"
+        android:text="ictrobot.hknu.ac.kr:8085"
         android:inputType="textPersonName"
         android:textSize="25sp" />
 
